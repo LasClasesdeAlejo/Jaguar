@@ -4,7 +4,7 @@
     <div class="w-full sm:w-96 bg-white px-8 py-8">
         <div class="mb-6 text-center">
             <img src="{{ asset('logo.png') }}" alt="" class="mx-auto mb-3 w-16 select-none unselectable" draggable="false">
-            <h1 class="text-lg font-semibold text-gray-900">SMEP SENA</h1>
+            <h1 class="text-lg font-semibold text-gray-900">Sistema MEP - SENA</h1>
             <p class="mt-1 text-sm text-gray-400">Acceso de usuarios registrados</p>
         </div>
         <form action="" class="flex flex-col gap-4">
